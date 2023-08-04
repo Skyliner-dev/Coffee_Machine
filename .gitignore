@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine (Java)/*
+!/Coffee Machine (Java)/task/
+/Coffee Machine (Java)/task/*
+!/Coffee Machine (Java)/task/src
